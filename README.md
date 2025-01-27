@@ -32,4 +32,3 @@ This is a simple digital clock built using HTML, CSS, and JavaScript. The clock 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
